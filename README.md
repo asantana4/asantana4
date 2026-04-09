@@ -5,6 +5,8 @@
 - Currently working with Java
 - Interested in building small projects and improving problem-solving skills
 
+- ## 🚀 Projects
+
 ## 🧠 Currently Learning
 - Java fundamentals
 - Object-Oriented Programming

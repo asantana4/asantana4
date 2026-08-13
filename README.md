@@ -2,7 +2,7 @@
 
 ## 👨‍💻 About Me
 - I'm learning programming
-- Currently working with Java
+- Currently working with Java and C#
 - Interested in building small projects and improving problem-solving skills
 
 ## 🧠 Currently Learning

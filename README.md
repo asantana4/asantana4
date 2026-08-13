@@ -6,7 +6,7 @@
 - Interested in building small projects and improving problem-solving skills
 
 ## 🧠 Currently Learning
-- Java fundamentals
+- Java and C# fundamentals
 - Object-Oriented Programming
 
 ## 📫 Contact
